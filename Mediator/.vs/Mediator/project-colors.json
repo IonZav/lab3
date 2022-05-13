@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b37c5867-c19a-4b20-88a8-c572b11e077a": {
+      "ProjectGuid": "b37c5867-c19a-4b20-88a8-c572b11e077a",
+      "DisplayName": "Mediator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
